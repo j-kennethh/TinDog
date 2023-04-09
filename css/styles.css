@@ -1,30 +1,15 @@
+/* Containers */
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.container-fluid {
+.container-title {
     padding: 3% 15%;
 }
 
-
-/* Title */
-
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-}
-
-h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3.5rem;
-    font-weight: 900;
-    line-height: 1.5;
-}
-
-.img-title {
-    width: 60%;
-    margin-left: 10%;
-    transform: rotate(25deg);
+.container-features {
+    padding: 7% 5%;
 }
 
 
@@ -49,8 +34,55 @@ h1 {
 }
 
 
-/* Download Buttons */
+/* Elements */
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/* Title */
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.img-title {
+    width: 60%;
+    margin-left: 10%;
+    transform: rotate(25deg);
+}
 
 .btn-download {
     margin: 5% 3% 5% 0;
+}
+
+
+/* Features */
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
 }
