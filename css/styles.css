@@ -12,6 +12,14 @@ body {
     padding: 7% 5%;
 }
 
+.container-cta {
+    padding: 7% 15%;
+}
+
+.container-footer {
+    padding: 7% 15%;
+}
+
 
 /* Nav Bar */
 
@@ -146,6 +154,32 @@ p {
 
 .col-pricing {
     padding: 3% 2%;
+}
+
+
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+}
+
+.h3-cta {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+
+/* Footer */
+
+#footer {
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
 
 
