@@ -147,3 +147,17 @@ p {
 .col-pricing {
     padding: 3% 2%;
 }
+
+
+/* Media Queries */
+
+@media (max-width: 991px) {
+    #title {
+        text-align: center;
+    }
+
+    .img-iphone {
+        position: static;
+        transform: rotate(0);
+    }
+}
