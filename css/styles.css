@@ -183,6 +183,14 @@ p {
     margin: 20px 10px;
 }
 
+.social-link:any-link {
+    color: #8f8f8f;
+}
+
+.social-link:hover {
+    color: #ff4c68;
+}
+
 
 /* Media Queries */
 
