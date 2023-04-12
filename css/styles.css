@@ -17,6 +17,18 @@
 }
 
 
+/* Sections */
+
+.section-color {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.section-white {
+    background-color: #fff;
+}
+
+
 /* Nav Bar */
 
 .navbar {
@@ -71,8 +83,6 @@ p {
 /* Title */
 
 #title {
-    background-color: #ff4c68;
-    color: #fff;
     text-align: left;
 }
 
@@ -95,7 +105,6 @@ p {
 /* Features */
 
 #features {
-    background-color: #fff;
     position: relative;
 }
 
@@ -121,7 +130,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .img-testimonial {
@@ -166,14 +174,6 @@ p {
 .h2-price {
     font-size: 3rem;
     line-height: 1.5;
-}
-
-
-/* Call to Action */
-
-#cta {
-    background-color: #ff4c68;
-    color: #fff;
 }
 
 
